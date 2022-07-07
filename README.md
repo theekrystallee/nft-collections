@@ -4,6 +4,9 @@
 
 <img width="600" alt="Screen Shot 2022-07-06 at 7 50 55 PM" src="https://user-images.githubusercontent.com/56278409/177679988-1c8a3dc9-9d66-4543-81a6-8c6072b4d548.png">
 
+[Crypto Devs($CD)](https://rinkeby.etherscan.io/address/0x03e708db11184f4229404d3e8f0c15ff2a999470) 0x03E708dB11184f4229404d3E8F0C15FF2a999470
+
+
 ## Requirements
 
 - There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
