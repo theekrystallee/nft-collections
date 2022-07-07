@@ -2,7 +2,7 @@
 
  launching an nft collection - `Crypto Devs`
 
-<img width="600" alt="Screen Shot 2022-07-06 at 7 50 55 PM" src="https://user-images.githubusercontent.com/56278409/177679988-1c8a3dc9-9d66-4543-81a6-8c6072b4d548.png">
+<img width="700" alt="Screen Shot 2022-07-06 at 7 50 55 PM" src="https://user-images.githubusercontent.com/56278409/177679988-1c8a3dc9-9d66-4543-81a6-8c6072b4d548.png">
 
 ## Minting instructions
 
