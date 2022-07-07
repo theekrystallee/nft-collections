@@ -4,29 +4,17 @@
 
 <img width="600" alt="Screen Shot 2022-07-06 at 7 50 55 PM" src="https://user-images.githubusercontent.com/56278409/177679988-1c8a3dc9-9d66-4543-81a6-8c6072b4d548.png">
 
-[Crypto Devs($CD)](https://rinkeby.etherscan.io/address/0x03e708db11184f4229404d3e8f0c15ff2a999470) 0x03E708dB11184f4229404d3E8F0C15FF2a999470
+## Minting instructions
 
+- Go to the website below
+- Connect your wallet
+- Click on mint
 
-## Requirements
+Crypto Dev Live Minting on Rinkeby testnet:<br>
+https://nft-collections-omega.vercel.app/
 
-- There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
-- User's should be able to mint only 1 NFT with one transaction.
-- Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
-- There should be a website for your NFT Collection.
-
-Lets start building 🚀
-
-## Prerequisites
-
-- You should have completed the [Whitelist dApp tutorial](https://github.com/LearnWeb3DAO/Whitelist-Dapp)
-
-## Theory
-
-- What is a Non-Fungible Token?
-  Fungible means to be the same or interchangeable eg Eth is fungible. With this in mind, NFTs are unique; each one is different. Every single token has unique characteristics and values. They are all distinguishable from one another and are not interchangeable eg Unique Art
-
-- What is ERC-721?
-  ERC-721 is an open standard that describes how to build Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible blockchains; it is a standard interface for Non-Fungible tokens; it has a set of rules which make it easy to work with NFTs. Before moving ahead have a look at all the functions supported by [ERC721](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721)
+Crypto Devs NFT Contract Address:
+[0x03E708dB11184f4229404d3E8F0C15FF2a999470](https://rinkeby.etherscan.io/address/0x03e708db11184f4229404d3e8f0c15ff2a999470)
 
 ## Build
 
