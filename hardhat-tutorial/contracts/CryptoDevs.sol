@@ -131,3 +131,5 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
 
 // crypto devs contract address
 // 0x03E708dB11184f4229404d3E8F0C15FF2a999470
+
+// 0xB3572E2F9df35ce76D82e9b84292AE9ee13920d1
